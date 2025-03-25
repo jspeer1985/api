@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Free Domains API
 
 **Backend**
@@ -13,3 +14,6 @@ The frontend is built using **HTML** and **Tailwind CSS** for structure and styl
 ![Frontend](https://skillicons.dev/icons?i=html%2Ctailwind)
 # Archie
 # api
+=======
+# api
+>>>>>>> 0f971b6fe8592f526e6e4ada78963cd91dabf0a4
